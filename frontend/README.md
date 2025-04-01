@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+frontend
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -68,3 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+backend side on creating a json file in your terminal run
+### `echo "[]" > backend/users.json` or
+### `echo "[]" > users.json`
+### `npm install`
+### `npm run dev`
